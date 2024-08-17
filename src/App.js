@@ -3,7 +3,7 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello word</h1>
+      <h1>Hello Akash!!!</h1>
     </div>
   );
 }
